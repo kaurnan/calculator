@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/html tutorial"
+		},
+		{
+			"path": "D:/cssproject/food_website"
+		},
+		{
+			"path": "D:/javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
